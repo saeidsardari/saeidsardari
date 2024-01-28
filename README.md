@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saeidsardari
 - 👀 I’m interested in www
 - 🌱 I’m currently learning react
-- 📫 reach me on t.me/Palikar , 
+- 📫 reach me on 
 saeidsardariii@gmail.com
 <!---
 saeidsardari/saeidsardari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
