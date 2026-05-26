@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeidsardari
 - 👀 I’m interested in www
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning SQL Server
 - 📫 reach me on 
 saeidsardariii@gmail.com
 <!---
